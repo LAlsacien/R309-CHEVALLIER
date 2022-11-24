@@ -25,5 +25,3 @@ if __name__ == "__main__" :
         except KeyboardInterrupt:
             bye = "bye"
             socket_client.send(bye.encode())
-
-
