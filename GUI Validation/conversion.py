@@ -1,5 +1,4 @@
 # EXERCICE 2
-
 import sys
 from PyQt5.QtWidgets import *
 
